@@ -10,7 +10,5 @@
   ViewUrl="http://www.madcapsoftware.com/"
   Type="scm"
   ProviderType="Git"
-  Database="C:\Users\jcatolico\Desktop\publish git\.git"
-  DatabaseRoot="C:\Users\jcatolico\Desktop\publish git"
-  PushToRemote="true"
-  RemoteRepository="origin"></CatapultDestination>
+  Database="file:///C:/Users/jcatolico/Desktop/publish git/.git"
+  DatabaseRoot="file:///C:/Users/jcatolico/Desktop/publish git"></CatapultDestination>
