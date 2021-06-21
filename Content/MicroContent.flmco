@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set.">
+    <MicroContent>
+        <MicroContentPhrase>What is micro content?</MicroContentPhrase>
+        <MicroContentPhrase>Tell me about micro content</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1>Micro Content</xhtml:h1>
+                    <xhtml:p>Micro content is typically used for short, concise information in question-and-answer situations, such as chat bots. In Flare, micro content can be extracted from existing topics or created from scratch.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>What is a topic</MicroContentPhrase>
+        <MicroContentPhrase>Topic</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:div xhtml:class="Logo-menu1">
+                        <xhtml:div>
+                            <xhtml:p xhtml:class="microcontentheading">What is a topic?</xhtml:p>
+                            <xhtml:ul>
+                                <xhtml:li>A discrete piece of content</xhtml:li>
+                                <xhtml:li>About a specific subject</xhtml:li>
+                                <xhtml:li>Has an identifiable purpose</xhtml:li>
+                                <xhtml:li>Can stand alone</xhtml:li>
+                                <xhtml:li>Can be reused in any context anywhere needed</xhtml:li>
+                            </xhtml:ul>
+                            <xhtml:p>For more information on topics, please visit our online help: <xhtml:a xhtml:href="https://help.madcapsoftware.com/flare2018r2/Content/Flare/Topics/About-Topics.htm">About Topics</xhtml:a></xhtml:p>
+                        </xhtml:div>
+                        <xhtml:div>
+                            <xhtml:p>
+                                <xhtml:img xhtml:src="Resources/Images/giphy.gif" />
+                            </xhtml:p>
+                        </xhtml:div>
+                    </xhtml:div>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>
